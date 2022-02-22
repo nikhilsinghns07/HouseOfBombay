@@ -1,0 +1,11 @@
+.top{
+    color: darkgray;
+    background-color: yellow;
+    text-align: center;
+}
+
+.items{
+    flex-direction:column;
+    justify-content:space-between;
+}
+
